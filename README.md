@@ -28,7 +28,7 @@ La página incluye una presentación personal, formación académica, proyectos,
 
 ---
 
-## 🧩 Estructura del proyecto
+## Estructura del proyecto
 mi_cv_web/
 │
 ├── index.html
